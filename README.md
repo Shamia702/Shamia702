@@ -18,7 +18,7 @@ I'm a beginner front-end developer who loves creating clean, simple websites usi
 
 Here are a few of my favorite projects so far:
 
-- 🧥 [**RainyDays**]([https://github.com/shamia702/rainyday](https://shamia702.github.io/Javascript-CA/)s)  
+- 🧥 [**RainyDays**](https://shamia702.github.io/Javascript-CA/)
   An eCommerce website for selling rain jackets. Built using HTML, CSS, and JavaScript. Focused on layout, product listings, and responsiveness.
 
 - 🏛️ [**Community Science Museum**](https://github.com/shamia702/community-science-museum)  
