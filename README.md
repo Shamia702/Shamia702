@@ -18,14 +18,17 @@ I'm a beginner front-end developer who loves creating clean, simple websites usi
 
 Here are a few of my favorite projects so far:
 
-- 🧥 [**RainyDays**](https://shamia702.github.io/Javascript-CA/)
-  An eCommerce website for selling rain jackets. Built using HTML, CSS, and JavaScript. Focused on layout, product listings, and responsiveness.
 
-- 🏛️ [**Community Science Museum**](https://shamia702.github.io/semester-project-1/)
-  A semester project that introduces kids to science in a fun, interactive way. Focused on clean structure, responsive design, and accessibility.
-  
- - 🥬 [**Green Gourmet**](https://github.com/shamia702/green-gourmet)  
-  My project exam website focused on healthy food options. Users can **create, read, update and delete posts** — a basic CRUD system built using vanilla JavaScript. Clean, mobile-friendly layout with an emphasis on user interaction and content management.
+- 🧥 [**RainyDays**](https://github.com/shamia702/rainydays)  
+  An eCommerce website for selling rain jackets. Built with HTML, CSS, and JavaScript.  
+  👉 [Live Demo](https://shamia702.github.io/Javascript-CA/)
+
+- 🏛️ [**Community Science Museum**](https://github.com/shamia702/community-science-museum)  
+  A semester project that introduces kids to science in a fun, interactive way. Built with HTML and CSS.  
+  👉 [Live Demo](https://shamia702.github.io/semester-project-1/)
+
+- 🥬 [**Green Gourmet**](https://github.com/shamia702/green-gourmet)  
+  My project exam website focused on healthy food options. Users can **create, read, update and delete posts** — a basic CRUD system built with vanilla JavaScript. Clean, mobile-friendly layout with emphasis on user interaction.
 
 *(Feel free to check out the repositories to explore the code!)*
 
