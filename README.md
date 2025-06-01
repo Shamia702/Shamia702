@@ -25,7 +25,7 @@ Here are a few of my favorite projects so far:
   A semester project that introduces kids to science in a fun, interactive way. Focused on clean structure, responsive design, and accessibility.
   
  - 🥬 [**Green Gourmet**](https://github.com/shamia702/green-gourmet)  
-  My project exam website focused on healthy food options. Users can **create, edit, read and delete posts** — a basic CRUD system built using vanilla JavaScript. Clean, mobile-friendly layout with an emphasis on user interaction and content management.
+  My project exam website focused on healthy food options. Users can **create, read, update and delete posts** — a basic CRUD system built using vanilla JavaScript. Clean, mobile-friendly layout with an emphasis on user interaction and content management.
 
 *(Feel free to check out the repositories to explore the code!)*
 
