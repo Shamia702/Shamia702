@@ -29,7 +29,8 @@ Here are a few of my favorite projects so far:
 
 - 🥬 [**Green Gourmet**](https://github.com/Shamia702/FED1-PE1-Shamia702))  
   My project exam website focused on healthy food options. Users can **create, read, update and delete posts** — a basic CRUD system built with vanilla JavaScript. Clean, mobile-friendly layout with emphasis on user interaction.
-  [Live Demo](https://green-gourmet.netlify.app/)
+  
+  👉 [Live Demo](https://green-gourmet.netlify.app/)
 
 *(Feel free to check out the repositories to explore the code!)*
 
